@@ -1,0 +1,20 @@
+.RandomDice{
+    
+}
+.RandomDice-Die{
+    display: flex;
+    align-content: center;
+}
+.RandomDice button{
+    display: inline;
+    width: 15em;
+    padding: 1.5em;
+    border: 0px;
+    color: white;
+    background-color: black;
+    border-radius: 10px;
+}
+.RandomDice button:hover{
+    background-color: darkslateblue;
+    cursor: pointer;
+}
